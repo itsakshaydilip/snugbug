@@ -1,10 +1,10 @@
-![Untitled-1](https://github.com/itsakshaydilip/snugbug/assets/142210554/cc54c06a-faaf-45dc-9ceb-8bb019ad6077)
-# snugbug
+![Untitled-1024](https://github.com/itsakshaydilip/snugbug/assets/142210554/e3f9b826-49d6-40b9-b616-396e07b6e90c)
+SNUGBUG
 CLI based Chatapp
 
 # Summary
 
-- SnugBug command - snugbug is a `CLI based` chatting app. Users are allowed to make rooms and chat with their respective peers or friends. Your room is as secure as the username and room name that you choose to use. `V-0.6` comes with no databases and the chat is not monitored.
+- SnugBug command/slug - `snugbug` is a `CLI based` chatting app. Users are allowed to make rooms and chat with their respective peers or friends. Your room is as secure as the username and room name that you choose to use. `V-0.6` comes with no databases and the chat is not monitored.
 
 # Requirements
 ```
@@ -21,7 +21,6 @@ pip install Flask-SocketIO
 
 ```
 pip install snugbug
-
 ```
 
 # Update
