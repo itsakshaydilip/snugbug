@@ -6,6 +6,17 @@ CLI based Chatapp
 
 - SnugBug command - snugbug is a `CLI based` chatting app. Users are allowed to make rooms and chat with their respective peers or friends. Your room is as secure as the username and room name that you choose to use. `V-0.6` comes with no databases and the chat is not monitored.
 
+# Requirements
+```
+pip install flask
+```
+```
+pip install simple-websocket
+```
+```
+pip install Flask-SocketIO
+```
+
 # Installation
 
 ```
