@@ -39,8 +39,8 @@ pip install –upgrade snugbug
 
 - Enter the following:
 
-- Print `/print` enters print mode to copy large texts or code that can be sent as one message.
+- Print `/paste` enters print mode to copy large texts or code that can be sent as one message.
 - Send `/send` sends the message after entering print mode.
 - Exit `/exit` exit the chatroom and the chat.
-- Stick `/stick` will enter stick mode and you can then paste the file path without ` “ ` and then type /send in a new line to send the file.
+- Stick `/stick` will enter stick mode and you can then paste the file path without ` “ ` and then type `/send` in a new line to send the file.
 - Emoticons get converted to emojis.
