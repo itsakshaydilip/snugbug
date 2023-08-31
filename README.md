@@ -1,6 +1,4 @@
-
 ![Untitled-1](https://github.com/itsakshaydilip/snugbug/assets/142210554/cc54c06a-faaf-45dc-9ceb-8bb019ad6077)
-
 # snugbug
 CLI based Chatapp
 
@@ -19,7 +17,9 @@ pip install snugbug
 
 - Please note that the app will work without updates post V-0.5 but it is best practice to update daily or once every 4 days to avail new features.
 
+```
 pip install –upgrade snugbug
+```
 
 # Initiation
 
