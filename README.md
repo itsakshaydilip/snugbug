@@ -1,5 +1,7 @@
-![Untitled-1024](https://github.com/itsakshaydilip/snugbug/assets/142210554/e3f9b826-49d6-40b9-b616-396e07b6e90c)
+![Untitled-1024](https://github.com/itsakshaydilip/snugbug/assets/142210554/636114f6-5644-4802-aea5-2fd5e7ccea9a)
+
 SNUGBUG
+
 CLI based Chatapp
 
 # Summary
