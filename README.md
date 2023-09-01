@@ -53,4 +53,4 @@ pip install –upgrade snugbug
 - Allows sending files over a local network in a matter of seconds in just one click
 - Files are autonamed and can be modified per client request.
 
-- Official Link - https://itssakshaydilip.gumroad.com
+- Official Link - https://itsakshaydilip.gumroad.com
