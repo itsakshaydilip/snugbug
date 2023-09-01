@@ -1,8 +1,8 @@
 ![Untitled-1024](https://github.com/itsakshaydilip/snugbug/assets/142210554/636114f6-5644-4802-aea5-2fd5e7ccea9a)
 
-SNUGBUG
+# SNUGBUG CHAT APP
 
-CLI based Chatapp
+CLI based app
 
 # Summary
 
@@ -46,3 +46,11 @@ pip install –upgrade snugbug
 - Exit `/exit` exit the chatroom and the chat.
 - Stick `/stick` will enter stick mode and you can then paste the file path without ` “ ` and then type `/send` in a new line to send the file.
 - Emoticons get converted to emojis.
+
+# Snugbug For Autodesk Maya
+
+- Available on Gumroad for a license
+- Allows sending files over a local network in a matter of seconds in just one click
+- Files are autonamed and can be modified per client request.
+
+- Official Link - https://itssakshaydilip.gumroad.com
