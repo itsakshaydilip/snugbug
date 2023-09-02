@@ -1,0 +1,10 @@
+LICENSE.txt
+setup.py
+snugbug/__init__.py
+snugbug/app.py
+snugbug/main.py
+snugbug.egg-info/PKG-INFO
+snugbug.egg-info/SOURCES.txt
+snugbug.egg-info/dependency_links.txt
+snugbug.egg-info/entry_points.txt
+snugbug.egg-info/top_level.txt
