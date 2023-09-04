@@ -1,57 +1,64 @@
+# SNUGBUG
+## _CLI based chatapp for students and coders alike._
 
-![snugubug](https://github.com/itsakshaydilip/snugbug/assets/142210554/9712f973-4d9b-4e43-a37a-5f40484442d0)
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
-# SNUGBUG CHAT APP
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-CLI based app
+SNUGBUG is a CLI based chat app that can run in a terminal be it vsc code or any other and is mobile friendly.
+Built using python.
 
-# Summary
+## Features
 
-- SnugBug command/slug - `snugbug` is a `CLI based` chatting app. Users are allowed to make rooms and chat with their respective peers or friends. Your room is as secure as the username and room name that you choose to use. `V-0.6` comes with no databases and the chat is not monitored.
+- Send messages and chat from within VS code or any terminal.
+- Paste long lines of code to quickly share it with your team and or friends.
+- Send links and Files.
 
-# Requirements
+Snugbug is a lightweight app that lets you share code or files as opposed to uploading it  
+on github or sending it via email for quick editing and troubleshooting.
+
+## Requirements
+
+Requirements for SNUGBUG to work properly:
+
+- python - Python 3.11 or above
+- Flask - 2.3.3
+- Flask-SocketIO - 5.3.5
+- rich
+- requests
+- websocket-client
+
+Newer verions auto install requirements
+
+## Installation
+
+SNUGBUG requires python ver 3.11 to run
+
+Install the dependencies and devDependencies and cann the program by entering "snugbug" in the terminal.
+
+```sh
+$ snugbug
 ```
-pip install flask
-```
-```
-pip install simple-websocket
-```
-```
-pip install Flask-SocketIO
-```
 
-# Installation
 
-```
-pip install snugbug
-```
+## Official Links
 
-# Update
+Official links below:
 
-- Please note that the app will work without updates post V-0.5 but it is best practice to update daily or once every 4 days to avail new features.
+| Source | LINK |
+| ------ | ------ |
+| PyPi | https://pypi.org/project/snugbug/ |
+| GitHub | https://github.com/itsakshaydilip/snugbug |
 
-```
-pip install –upgrade snugbug
-```
 
-# Initiation
+## Development
 
-- Open your ClI or terminal be it any and enter snugbug Note: - If the server fails to connect we are working on it.
+Want to contribute? Great!
 
-# Functions and Features
+Get in touch with us trough github post your ideas or post your ideas on reddit r/snugbug  
+Feel free to download the releases revie them and suggest according to your liking.
 
-- Enter the following:
+## License
 
-- Print `/paste` enters print mode to copy large texts or code that can be sent as one message.
-- Send `/send` sends the message after entering print mode.
-- Exit `/exit` exit the chatroom and the chat.
-- Stick `/stick` will enter stick mode and you can then paste the file path without ` “ ` and then type `/send` in a new line to send the file.
-- Emoticons get converted to emojis.
+MIT
 
-# Snugbug For Autodesk Maya
-
-- Available on Gumroad for a license
-- Allows sending files over a local network in a matter of seconds in just one click
-- Files are autonamed and can be modified per client request.
-
-- Official Link - https://itsakshaydilip.gumroad.com
