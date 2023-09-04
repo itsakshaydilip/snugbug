@@ -1,7 +1,7 @@
 # SNUGBUG
 ## _CLI-based chatapp for students and coders alike._
 
-![build](https://github.com/itsakshaydilip/snugbug/assets/142210554/6f7dc0e5-c9fc-4e39-a5ee-19588f0b668e)
+![build](https://github.com/itsakshaydilip/snugbug/assets/142210554/6f7dc0e5-c9fc-4e39-a5ee-19588f0b668e=100x20)
 
 
 SNUGBUG is a CLI-based chat app that can run in a terminal be it vs code or any other and is mobile friendly(termux or any other).
