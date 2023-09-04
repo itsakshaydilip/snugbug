@@ -5,8 +5,8 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-SNUGBUG is a CLI based chat app that can run in a terminal be it vsc code or any other and is mobile friendly.
-Built using python.
+SNUGBUG is a CLI-based chat app that can run in a terminal be it vs code or any other and is mobile friendly(termux or any other).
+Built using Python.
 
 ## Features
 
@@ -15,26 +15,26 @@ Built using python.
 - Send links and Files.
 
 Snugbug is a lightweight app that lets you share code or files as opposed to uploading it  
-on github or sending it via email for quick editing and troubleshooting.
+on Git Hub or send it via email for quick editing and troubleshooting.
 
 ## Requirements
 
 Requirements for SNUGBUG to work properly:
 
-- python - Python 3.11 or above
+- Python - Python 3.11 or above
 - Flask - 2.3.3
 - Flask-SocketIO - 5.3.5
 - rich
 - requests
-- websocket-client
+- WebSocket-client
 
-Newer verions auto install requirements
+Newer versions auto-install requirements
 
 ## Installation
 
-SNUGBUG requires python ver 3.11 to run
+SNUGBUG requires Python ver 3.11 to run
 
-Install the dependencies and devDependencies and cann the program by entering "snugbug" in the terminal.
+Install the dependencies and devDependencies and can the program by entering "snugbug" in the terminal.
 
 ```sh
 $ snugbug
@@ -55,8 +55,8 @@ Official links below:
 
 Want to contribute? Great!
 
-Get in touch with us trough github post your ideas or post your ideas on reddit r/snugbug  
-Feel free to download the releases revie them and suggest according to your liking.
+Get in touch with us through GitHub post your ideas or post your ideas on Reddit r/snugbug  
+Feel free to download the releases revise them and suggest according to your liking.
 
 ## License
 
