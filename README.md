@@ -1,3 +1,6 @@
+
+![snugubug](https://github.com/itsakshaydilip/snugbug/assets/142210554/1e77a9e9-7650-4b35-b6d6-5a183d836d1f)
+
 # SNUGBUG
 ## _CLI-based chatapp for students and coders alike._
 
