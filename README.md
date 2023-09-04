@@ -1,4 +1,5 @@
-![Untitled-1024](https://github.com/itsakshaydilip/snugbug/assets/142210554/636114f6-5644-4802-aea5-2fd5e7ccea9a)
+
+![snugubug](https://github.com/itsakshaydilip/snugbug/assets/142210554/9712f973-4d9b-4e43-a37a-5f40484442d0)
 
 # SNUGBUG CHAT APP
 
