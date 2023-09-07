@@ -1,0 +1,6 @@
+Flask==2.3.3
+Flask-SocketIO==5.3.5
+Flask-SQLAlchemy==3.0.5
+rich
+requests
+websocket-client
